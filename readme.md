@@ -107,5 +107,5 @@ gemini-in-gmail/
 
 ---
 
-## 📄 License
+## License
 MIT License. See `LICENSE` file for details.
