@@ -100,12 +100,3 @@ gemini-in-gmail/
 - Settings page for API endpoint configuration.
 
 ---
-
-## Repository Info
-**Name suggestion:** `gemini-in-gmail`  
-**Tagline:** *"AI-powered Gmail replies with Gemini, in your style."*
-
----
-
-## License
-MIT License. See `LICENSE` file for details.
