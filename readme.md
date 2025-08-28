@@ -16,7 +16,7 @@ A lightweight **browser extension + Spring Boot backend** that turns Google Gemi
 
 ## Project Structure
 ```
-gemini-in-gmail/
+Gmail-Gemini-Extension/
  ├── browser-extension/              # Browser extension (content script, manifest, assets)
  │   ├── content-script.js
  │   ├── manifest.json
