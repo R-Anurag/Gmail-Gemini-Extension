@@ -15,11 +15,11 @@ A lightweight **browser extension + Spring Boot backend** that turns Google Gemi
 ---
 
 ## Working Screenshots
-<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/d14f560f-c5de-4152-a915-575c811c39fe" />
-<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/42d2dc2a-c701-44f5-800b-85be8b016037" />
-<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/925074cd-5223-48f7-9e62-0a5110dc3ca0" />
-<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/3ce5c98f-9f05-4cb0-8f17-24636fee1a8e" />
-<img width="1813" height="856" alt="image" src="https://github.com/user-attachments/assets/24ebc17e-415d-493e-9f02-4453e4abefb8" />
+[![Screen 1](https://github.com/user-attachments/assets/d14f560f-c5de-4152-a915-575c811c39fe)](https://github.com/user-attachments/assets/d14f560f-c5de-4152-a915-575c811c39fe)
+[![Screen 2](https://github.com/user-attachments/assets/42d2dc2a-c701-44f5-800b-85be8b016037)](https://github.com/user-attachments/assets/42d2dc2a-c701-44f5-800b-85be8b016037)
+[![Screen 3](https://github.com/user-attachments/assets/925074cd-5223-48f7-9e62-0a5110dc3ca0)](https://github.com/user-attachments/assets/925074cd-5223-48f7-9e62-0a5110dc3ca0)
+[![Screen 4](https://github.com/user-attachments/assets/3ce5c98f-9f05-4cb0-8f17-24636fee1a8e)](https://github.com/user-attachments/assets/3ce5c98f-9f05-4cb0-8f17-24636fee1a8e)
+[![Screen 5](https://github.com/user-attachments/assets/24ebc17e-415d-493e-9f02-4453e4abefb8)](https://github.com/user-attachments/assets/24ebc17e-415d-493e-9f02-4453e4abefb8)
 
 ---
 
