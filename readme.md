@@ -14,33 +14,6 @@ A lightweight **browser extension + Spring Boot backend** that turns Google Gemi
 
 ---
 
-## Working Screenshots
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-
-  <a href="https://github.com/user-attachments/assets/d14f560f-c5de-4152-a915-575c811c39fe" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d14f560f-c5de-4152-a915-575c811c39fe" width="150"/>
-  </a>
-
-  <a href="https://github.com/user-attachments/assets/42d2dc2a-c701-44f5-800b-85be8b016037" target="_blank">
-    <img src="https://github.com/user-attachments/assets/42d2dc2a-c701-44f5-800b-85be8b016037" width="150"/>
-  </a>
-
-  <a href="https://github.com/user-attachments/assets/925074cd-5223-48f7-9e62-0a5110dc3ca0" target="_blank">
-    <img src="https://github.com/user-attachments/assets/925074cd-5223-48f7-9e62-0a5110dc3ca0" width="150"/>
-  </a>
-
-  <a href="https://github.com/user-attachments/assets/3ce5c98f-9f05-4cb0-8f17-24636fee1a8e" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3ce5c98f-9f05-4cb0-8f17-24636fee1a8e" width="150"/>
-  </a>
-
-  <a href="https://github.com/user-attachments/assets/24ebc17e-415d-493e-9f02-4453e4abefb8" target="_blank">
-    <img src="https://github.com/user-attachments/assets/24ebc17e-415d-493e-9f02-4453e4abefb8" width="150"/>
-  </a>
-
-</div>
-
----
-
 ## Project Structure
 ```
 gemini-in-gmail/
@@ -125,5 +98,14 @@ gemini-in-gmail/
 - Support for multiple languages.  
 - Optional Gmail compose integration (new drafts, not just replies).  
 - Settings page for API endpoint configuration.
+
+---
+
+## Working Screenshots
+<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/d14f560f-c5de-4152-a915-575c811c39fe" /> 
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/42d2dc2a-c701-44f5-800b-85be8b016037" /> 
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/925074cd-5223-48f7-9e62-0a5110dc3ca0" /> 
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/3ce5c98f-9f05-4cb0-8f17-24636fee1a8e" /> 
+<img width="1813" height="856" alt="image" src="https://github.com/user-attachments/assets/24ebc17e-415d-493e-9f02-4453e4abefb8" />
 
 ---
