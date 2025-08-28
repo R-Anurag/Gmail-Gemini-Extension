@@ -17,12 +17,11 @@ A lightweight **browser extension + Spring Boot backend** that turns Google Gemi
 ## Project Structure
 ```
 gemini-in-gmail/
- ├── extension/              # Browser extension (content script, manifest, assets)
+ ├── browser-extension/              # Browser extension (content script, manifest, assets)
  │   ├── content-script.js
  │   ├── manifest.json
- │   ├── icons/
- │   └── ...
- ├── server/                 # Spring Boot backend
+ │   └── images/
+ ├── ai-backend-sb/                 # Spring Boot backend
  │   ├── src/main/java/com/email/writer/
  │   │   ├── EmailWriterSbApplication.java
  │   │   ├── EmailGeneratorController.java
