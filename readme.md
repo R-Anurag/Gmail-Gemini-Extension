@@ -5,12 +5,12 @@ A lightweight **browser extension + Spring Boot backend** that turns Google Gemi
 ---
 
 ## Features
-- 🪄 **AI Reply Button** inside Gmail’s compose toolbar  
-- 🎨 **Animated gradient button** with dropdown tone selector  
-- 📝 **Custom tone support** — define your own style of reply  
-- 🔗 **Spring Boot backend** that securely connects to the Gemini API  
-- ⚡ Real-time drafting based on the original email content  
-- 🔒 Identity guardrails — replies are always written as *you*, never roleplay  
+- **AI Reply Button** inside Gmail’s compose toolbar  
+- **Animated gradient button** with dropdown tone selector  
+- **Custom tone support** — define your own style of reply  
+- **Spring Boot backend** that securely connects to the Gemini API  
+- Real-time drafting based on the original email content  
+- Identity guardrails — replies are always written as *you*, never roleplay  
 
 ---
 
